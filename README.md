@@ -68,10 +68,10 @@ Observe the movement of agent from node 1 to node 2 with the payload.
 ###PROGRAM : To get the synonyms and antonyms of the word entered
 ####RELEVANT FILES : syno_anto_node1.pl ; syno_anto_node2.pl ; syno_anto_node3.pl
 
-1. run the predicates node1, node2 and node3 from the files syno_anto_node1.pl, syno_anto_node2.pl and syno_anto_node3.pl respectively in three separate swi-prolog windows.
+1. Run the predicates node1, node2 and node3 from the files syno_anto_node1.pl, syno_anto_node2.pl and syno_anto_node3.pl respectively in three separate swi-prolog windows.
 
-2. run agent_init from the port 7777 i.e., node1 (file syno_anto_node1.pl).
+2. Run agent_init from the port 7777 i.e., node1 (file syno_anto_node1.pl).
 
-3. enter the word whose synonyms and antonyms are to be fetched (current words : "intelligence" and "kind").
+3. Enter the word whose synonyms and antonyms are to be fetched (current words : "intelligence" and "kind").
 
 ************************************************************************************
